@@ -1,0 +1,4 @@
+1.Click the field with age
+2.Enter your age by letters(not numbers)
+Expected result: you'll see a message "Please, use only numbers"
+Actual result: u've been allowed to enter
