@@ -1,0 +1,4 @@
+Name - Stas
+Age - 20
+Pets - 0
+
